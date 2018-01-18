@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Samples">
+</Property><Property Name="Solution File" Value="D:\Users\Admin\Documents\GitHub\NDde\Samples\vb\Samples.sln">
+</Property><Property Name="Date" Value="Thursday, January 18, 2018">
+</Property><Property Name="Time" Value="10:37">
+</Property></Properties><Event ErrorLevel="0" Project="Client" Source="Client\Client.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClientWin" Source="ClientWin\ClientWin.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClientWin" Source="ClientWin\ClientWin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Samples.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Samples.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClientWin" Source="ClientWin\ClientWin.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
