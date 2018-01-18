@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NDde">
+</Property><Property Name="Solution File" Value="D:\Users\Admin\Documents\GitHub\NDde\Source\NDde.sln">
+</Property><Property Name="Date" Value="Thursday, January 18, 2018">
+</Property><Property Name="Time" Value="09:52">
+</Property></Properties><Event ErrorLevel="0" Project="NDde" Source="NDde\NDde.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NDde" Source="NDde\NDde.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NDde.Test" Source="NDde.Test\NDde.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NDde.Test" Source="NDde.Test\NDde.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NDde.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NDde.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NDde" Source="NDde\NDde.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NDde.Test" Source="NDde.Test\NDde.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
